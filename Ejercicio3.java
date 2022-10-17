@@ -47,5 +47,6 @@ public class Ejercicio3 {
                 dia = "Debe introducir un número del 1 al 7";
         }
         System.out.println(dia);
+        sc.close();
     }
 }
